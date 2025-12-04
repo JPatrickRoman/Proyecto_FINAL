@@ -45,7 +45,7 @@ set(ALL_SOURCES
 )
 
 # Crear el ejecutable
-add_executable(ZZZ ${ALL_SOURCES})
+add_executable(PFINAL ${ALL_SOURCES})
 
 # Incluir directorios de headers
-target_include_directories(ZZZ PRIVATE src)
+target_include_directories(PFINAL PRIVATE src)
