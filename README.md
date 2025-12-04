@@ -1,1 +1,1 @@
-VEA EL ARCHIVO PDF 
+Vea el archivo PDF y UML del proyecto
