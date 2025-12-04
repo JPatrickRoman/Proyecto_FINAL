@@ -1,0 +1,2618 @@
+============================================================
+          RIVAL FRONTIERS
+============================================================
+Inicializando juego...
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #1
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=18 | Metal=12 | Energia=8
+Jugador: Dominio=3% | Sistema: Dominio=3%
+----------------------------------------------------------
+
+       0        1        2        3        4        5        6        7        8        9       10       11
+ 0 [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][J1S/LL ][../MO  ][../MO  ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+3  [../BO  ][../BO  ][../BO  ][../AG  ][../PA  ][../LL  ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][../AG  ][../BO  ][../LL  ][../BO  ][NeTo/LL][../BO  ][../LL  ][../LL  ][../LL  ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2A/LL ][J2Cu/LL]
+
+┬íJuego iniciado! Presiona Enter para comenzar...
+
+
+
+
+============================================================
+  Estado 1 - Turno 1 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #1
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=18 | Metal=12 | Energia=8
+Jugador: Dominio=3% | Sistema: Dominio=3%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][J1S/LL ][../MO  ][../MO  ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+3  [../BO  ][../BO  ][../BO  ][../AG  ][../PA  ][../LL  ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][../AG  ][../BO  ][../LL  ][../BO  ][NeTo/LL][../BO  ][../LL  ][../LL  ][../LL  ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2A/LL ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:1
+
+
+=== MOVER UNIDAD ===
+Coordenada de origen (x y):1 1
+
+Coordenada de destino (x y):1 3
+
+Unidad movida exitosamente.
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:3
+
+
+=== CONSTRUIR EDIFICIO ===
+Tipo: 1.Granja 2.Cuartel 3.Torre 4.Forja
+Selecciona:2
+
+Coordenada (x y):2 3
+
+Edificio construido exitosamente.
+
+============================================================
+  Estado 2 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #1
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=20 | Metal=11 | Energia=8
+Jugador: Dominio=4% | Sistema: Dominio=3%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+3  [../BO  ][../BO  ][../BO  ][../AG  ][../PA  ][../LL  ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][../AG  ][../BO  ][../LL  ][../BO  ][NeTo/LL][../BO  ][../LL  ][../LL  ][../LL  ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2A/LL ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (10,10) a (9,10)
+IA movio unidad de (11,10) a (11,9)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (8,11)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 3 - Turno 2 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #2
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=20 | Metal=11 | Energia=8
+Jugador: Dominio=4% | Sistema: Dominio=5%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+3  [../BO  ][../BO  ][../BO  ][../AG  ][../PA  ][../LL  ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][../AG  ][../BO  ][../LL  ][../BO  ][NeTo/LL][../BO  ][../LL  ][../LL  ][../LL  ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2A/LL ][../LL  ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:4
+
+
+=== RECLUTAR UNIDAD ===
+Cuarteles disponibles:
+1. Cuartel en (0,0)
+2. Cuartel en (2,3)
+Selecciona cuartel (1-2):2
+
+
+Tipo: 1.Soldado 2.Arquero 3.Caballero 4.Mago 5.Ingeniero
+Selecciona:5
+
+Unidad reclutada en (3,3) cerca del cuartel.
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:5
+
+
+=== USAR HABILIDAD ESPECIAL ===
+Coordenada de la unidad (x y):3 3
+
+
+=== INGENIERO: CONSTRUCCION RAPIDA ===
+Ingresa coordenada del ingeniero (x y):3 3
+
+Buscando celdas libres cercanas para construir 2 edificios...
+  -> Granja construida en (4,3)
+  -> Torre construida en (3,2)
+Ingeniero construyo 2 edificio(s).
+Habilidad especial activada.
+
+============================================================
+  Estado 4 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #2
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=21 | Metal=13 | Energia=6
+Jugador: Dominio=6% | Sistema: Dominio=5%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][NeTo/LL][../BO  ][../LL  ][../LL  ][../LL  ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2A/LL ][../LL  ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (8,11) a (7,11)
+IA movio unidad de (9,10) a (8,10)
+IA movio unidad de (11,9) a (10,9)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (8,11)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 5 - Turno 3 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #3
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=21 | Metal=13 | Energia=6
+Jugador: Dominio=6% | Sistema: Dominio=7%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][NeTo/LL][../BO  ][../LL  ][../LL  ][../LL  ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][J2S/LL ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][J2A/LL ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Torre produce +1 energia.
+Granja produce +2 comida.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:6
+
+
+=== REPORTES ===
+1. Estado actual
+2. Exportar reporte completo
+3. Exportar telemetria
+Selecciona:1
+
+
+=== ESTADO ACTUAL ===
+Turno: 3
+Comida: 25
+Metal: 15
+Energia: 7
+Dominio J1: 6%
+Dominio J2: 7%
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:4
+
+
+=== RECLUTAR UNIDAD ===
+Cuarteles disponibles:
+1. Cuartel en (0,0)
+2. Cuartel en (2,3)
+Selecciona cuartel (1-2):2
+
+
+Tipo: 1.Soldado 2.Arquero 3.Caballero 4.Mago 5.Ingeniero
+Selecciona:3
+
+Unidad reclutada en (2,2) cerca del cuartel.
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:1
+
+
+=== MOVER UNIDAD ===
+Coordenada de origen (x y):2 2
+
+Coordenada de destino (x y):2 7
+
+Unidad movida exitosamente.
+
+============================================================
+  Estado 6 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #3
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=23 | Metal=13 | Energia=7
+Jugador: Dominio=8% | Sistema: Dominio=7%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][J1C/LL ][../LL  ][../LL  ][../LL  ][../LL  ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][NeTo/LL][../BO  ][../LL  ][../LL  ][../LL  ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][J2S/LL ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][J2A/LL ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (7,11) a (6,11)
+IA movio unidad de (8,10) a (7,10)
+IA movio unidad de (10,9) a (9,9)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (9,10)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 7 - Turno 4 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #4
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=23 | Metal=13 | Energia=7
+Jugador: Dominio=8% | Sistema: Dominio=9%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][J1C/LL ][../LL  ][../LL  ][../LL  ][../LL  ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][NeTo/LL][../BO  ][../LL  ][../LL  ][../LL  ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][J2S/LL ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2A/LL ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Torre produce +1 energia.
+Granja produce +2 comida.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:1
+
+
+=== MOVER UNIDAD ===
+Coordenada de origen (x y):2 7
+
+Coordenada de destino (x y):4 7
+
+┬íEdificio neutral capturado! Torre ahora es tuyo.
+La unidad permanece en su posicion original.
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:1
+
+
+=== MOVER UNIDAD ===
+Coordenada de origen (x y):2 7
+
+Coordenada de destino (x y):2 10
+
+Unidad movida exitosamente.
+
+============================================================
+  Estado 8 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #4
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=27 | Metal=15 | Energia=8
+Jugador: Dominio=9% | Sistema: Dominio=9%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1C/LL ][../LL  ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][../BO  ][../LL  ][../LL  ][../LL  ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][J2S/LL ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2A/LL ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (6,11) a (5,11)
+IA movio unidad de (7,10) a (6,10)
+IA movio unidad de (9,9) a (8,9)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (11,10)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 9 - Turno 5 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #5
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=27 | Metal=15 | Energia=8
+Jugador: Dominio=9% | Sistema: Dominio=11%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1C/LL ][../LL  ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][../BO  ][../LL  ][../LL  ][../LL  ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][J2S/LL ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][J2S/LL ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][J2A/LL ][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:3
+
+
+=== CONSTRUIR EDIFICIO ===
+Tipo: 1.Granja 2.Cuartel 3.Torre 4.Forja
+Selecciona:2
+
+Coordenada (x y):3 10
+
+Edificio construido exitosamente.
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:4
+
+
+=== RECLUTAR UNIDAD ===
+Cuarteles disponibles:
+1. Cuartel en (0,0)
+2. Cuartel en (2,3)
+3. Cuartel en (3,10)
+Selecciona cuartel (1-3):3
+
+
+Tipo: 1.Soldado 2.Arquero 3.Caballero 4.Mago 5.Ingeniero
+Selecciona:4
+
+Unidad reclutada en (4,10) cerca del cuartel.
+
+============================================================
+  Estado 10 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #5
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=30 | Metal=14 | Energia=8
+Jugador: Dominio=11% | Sistema: Dominio=11%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1C/LL ][../LL  ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][../LL  ][../LL  ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][../BO  ][../LL  ][J1M/LL ][../LL  ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][J2S/LL ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][J2S/LL ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][J2A/LL ][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (5,11) a (4,11)
+IA movio unidad de (6,10) a (5,10)
+IA movio unidad de (8,9) a (7,9)
+IA: Reforzando posiciones clave.
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 11 - Turno 6 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #6
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=30 | Metal=14 | Energia=8
+Jugador: Dominio=11% | Sistema: Dominio=13%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1C/LL ][../LL  ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][../LL  ][../LL  ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][../BO  ][../LL  ][J1M/LL ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][J2S/LL ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][J2A/LL ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Torre produce +1 energia.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:5
+
+
+=== USAR HABILIDAD ESPECIAL ===
+Coordenada de la unidad (x y):4 10
+
+
+=== HECHIZO DE AREA 3x3 ===
+Ingresa coordenada central (x y):4 10
+
+Mago lanza hechizo de area 3x3 centrado en (4,10)
+Soldado recibe 3 de danio. Vida restante: 7/10
+  -> Soldado en (4,11) recibe 3 de danio magico
+Soldado recibe 3 de danio. Vida restante: 7/10
+  -> Soldado en (5,10) recibe 3 de danio magico
+Habilidad especial activada.
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:1
+
+
+=== MOVER UNIDAD ===
+Coordenada de origen (x y):2 10
+
+Coordenada de destino (x y):2 11
+
+Unidad movida exitosamente.
+
+============================================================
+  Estado 12 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #6
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=34 | Metal=17 | Energia=9
+Jugador: Dominio=11% | Sistema: Dominio=13%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][../LL  ][../LL  ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][../BO  ][../LL  ][J1M/LL ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][J2S/LL ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][J2A/LL ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (4,11) a (3,11)
+IA movio unidad de (5,10) a (5,9)
+IA movio unidad de (7,9) a (6,9)
+IA: Reforzando posiciones clave.
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 13 - Turno 7 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #7
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=34 | Metal=17 | Energia=9
+Jugador: Dominio=11% | Sistema: Dominio=15%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][../LL  ][../LL  ][J1Cu/LL][J2S/LL ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][../BO  ][../LL  ][J1M/LL ][../LL  ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][J2S/LL ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][J2A/LL ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Torre produce +1 energia.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:5
+
+
+=== USAR HABILIDAD ESPECIAL ===
+Coordenada de la unidad (x y):2 11
+
+Caballero: ┬íCarga devastadora ACTIVADA! (Siguiente ataque hace da├▒o DOBLE)
+Habilidad especial activada.
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:2
+
+
+=== ATACAR ===
+Coordenada de tu unidad (x y):2 11
+
+Coordenada del objetivo (x y):3 11
+
+
+Soldado recibe 6 de danio. Vida restante: 1/10
+Caballero ataca a Soldado causando 6 de danio (┬íDANO DOBLE POR CARGA!).
+
+============================================================
+  Estado 14 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #7
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=38 | Metal=20 | Energia=10
+Jugador: Dominio=11% | Sistema: Dominio=15%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][../LL  ][../LL  ][J1Cu/LL][J2S/LL ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][../BO  ][../LL  ][J1M/LL ][../LL  ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][J2S/LL ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][J2A/LL ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (3,11) a (3,10)
+IA movio unidad de (5,9) a (4,9)
+IA movio unidad de (6,9) a (6,8)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (2,10)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 15 - Turno 8 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #8
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=38 | Metal=20 | Energia=10
+Jugador: Dominio=10% | Sistema: Dominio=18%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][../LL  ][../LL  ][J2S/LL ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][../BO  ][J2S/LL ][J1M/LL ][../LL  ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][J2A/LL ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Torre produce +1 energia.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:
+4
+
+
+=== RECLUTAR UNIDAD ===
+Cuarteles disponibles:
+1. Cuartel en (0,0)
+2. Cuartel en (2,3)
+3. Cuartel en (3,10)
+Selecciona cuartel (1-3):3
+
+
+Tipo: 1.Soldado 2.Arquero 3.Caballero 4.Mago 5.Ingeniero
+Selecciona:5
+
+Unidad reclutada en (3,9) cerca del cuartel.
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:5
+
+
+=== USAR HABILIDAD ESPECIAL ===
+Coordenada de la unidad (x y):3 9
+
+
+=== INGENIERO: CONSTRUCCION RAPIDA ===
+Ingresa coordenada del ingeniero (x y):3 9
+
+Buscando celdas libres cercanas para construir 2 edificios...
+  -> Granja construida en (2,9)
+  -> Torre construida en (3,8)
+Ingeniero construyo 2 edificio(s).
+Habilidad especial activada.
+
+============================================================
+  Estado 16 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #8
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=41 | Metal=23 | Energia=10
+Jugador: Dominio=12% | Sistema: Dominio=18%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][J1Gr/LL][J2S/LL ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][J1To/LL][J1I/LL ][J2S/LL ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][../BO  ][J2S/LL ][J1M/LL ][../LL  ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][J2A/LL ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (2,10) a (1,10)
+IA movio unidad de (4,9) a (4,8)
+IA movio unidad de (6,8) a (5,8)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (2,10)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 17 - Turno 9 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #9
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=41 | Metal=23 | Energia=10
+Jugador: Dominio=12% | Sistema: Dominio=20%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][J1Gr/LL][J2S/LL ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][J1To/LL][J1I/LL ][J2S/LL ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][J2S/BO ][../LL  ][J1M/LL ][../LL  ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][J2A/BO ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Torre produce +1 energia.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:3
+
+
+=== CONSTRUIR EDIFICIO ===
+Tipo: 1.Granja 2.Cuartel 3.Torre 4.Forja
+Selecciona:3
+
+Coordenada (x y):4 11
+
+Edificio construido exitosamente.
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:3
+
+
+=== CONSTRUIR EDIFICIO ===
+Tipo: 1.Granja 2.Cuartel 3.Torre 4.Forja
+Selecciona:3
+
+Coordenada (x y):2 8
+
+Edificio construido exitosamente.
+
+============================================================
+  Estado 18 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #9
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=47 | Metal=22 | Energia=11
+Jugador: Dominio=13% | Sistema: Dominio=20%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][J1To/LL][J1Gr/LL][J2S/LL ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][J1To/LL][J1I/LL ][J2S/LL ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][J2S/BO ][../LL  ][J1M/LL ][J1To/LL]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][J2A/BO ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (1,10) a (0,10)
+IA movio unidad de (2,10) a (2,9)
+IA movio unidad de (4,8) a (3,8)
+IA movio unidad de (5,8) a (5,7)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (1,9)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 19 - Turno 10 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #10
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=47 | Metal=22 | Energia=11
+Jugador: Dominio=12% | Sistema: Dominio=23%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][J1To/LL][J2S/LL ][../LL  ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][J2S/LL ][J1I/LL ][J2S/LL ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][../BO  ][../LL  ][J1M/LL ][J1To/LL]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][J2A/BO ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:9
+
+
+============================================================
+  Estado 20 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #10
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=53 | Metal=25 | Energia=16
+Jugador: Dominio=12% | Sistema: Dominio=23%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][J1To/LL][J2S/LL ][../LL  ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][J2S/LL ][J1I/LL ][J2S/LL ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][../BO  ][../LL  ][J1M/LL ][J1To/LL]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][J2A/BO ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (0,10) a (0,9)
+IA movio unidad de (2,9) a (2,8)
+IA movio unidad de (5,7) a (4,7)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (1,8)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 21 - Turno 11 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #11
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=53 | Metal=25 | Energia=16
+Jugador: Dominio=11% | Sistema: Dominio=26%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J1Gr/LL][../LL  ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][J2S/LL ][J1I/LL ][J2S/LL ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J2A/LL ][../BO  ][../LL  ][J1M/LL ][J1To/LL]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:1
+
+
+=== MOVER UNIDAD ===
+Coordenada de origen (x y):4 10
+
+Coordenada de destino (x y):8 10
+
+Unidad movida exitosamente.
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:5
+
+
+=== USAR HABILIDAD ESPECIAL ===
+Coordenada de la unidad (x y):8 10
+
+
+=== HECHIZO DE AREA 3x3 ===
+Ingresa coordenada central (x y):8 10
+
+Mago lanza hechizo de area 3x3 centrado en (8,10)
+Soldado recibe 3 de danio. Vida restante: 7/10
+  -> Soldado en (8,11) recibe 3 de danio magico
+Soldado recibe 3 de danio. Vida restante: 7/10
+  -> Soldado en (9,10) recibe 3 de danio magico
+Habilidad especial activada.
+
+============================================================
+  Estado 22 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #11
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=59 | Metal=28 | Energia=20
+Jugador: Dominio=11% | Sistema: Dominio=26%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J1Gr/LL][../LL  ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][J2S/LL ][J1I/LL ][J2S/LL ][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J2A/LL ][../BO  ][../LL  ][../LL  ][J1To/LL]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][J1M/LL ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (0,9) a (0,8)
+IA movio unidad de (2,8) a (2,7)
+IA movio unidad de (3,8) a (3,7)
+IA movio unidad de (3,10) a (4,10)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (3,8)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 23 - Turno 12 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #12
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=59 | Metal=28 | Energia=20
+Jugador: Dominio=9% | Sistema: Dominio=29%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][J2S/LL ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][J2S/LL ][J1To/LL][J1Gr/LL][../LL  ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][J2S/LL ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J2A/LL ][../BO  ][../LL  ][J2S/LL ][J1To/LL]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][../LL  ][J1M/LL ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:5
+
+
+=== USAR HABILIDAD ESPECIAL ===
+Coordenada de la unidad (x y):8 10
+
+
+=== HECHIZO DE AREA 3x3 ===
+Ingresa coordenada central (x y):8 10
+
+Mago lanza hechizo de area 3x3 centrado en (8,10)
+Soldado recibe 3 de danio. Vida restante: 4/10
+  -> Soldado en (8,11) recibe 3 de danio magico
+Soldado recibe 3 de danio. Vida restante: 4/10
+  -> Soldado en (9,10) recibe 3 de danio magico
+Habilidad especial activada.
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:3
+
+
+=== CONSTRUIR EDIFICIO ===
+Tipo: 1.Granja 2.Cuartel 3.Torre 4.Forja
+Selecciona:2
+
+Coordenada (x y):8 9
+
+Edificio construido exitosamente.
+
+============================================================
+  Estado 24 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #12
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=65 | Metal=29 | Energia=24
+Jugador: Dominio=10% | Sistema: Dominio=28%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][J2S/LL ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][J2S/LL ][J1To/LL][J1Gr/LL][../LL  ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][J2S/LL ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J2A/LL ][../BO  ][../LL  ][J2S/LL ][J1To/LL]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][J1Cu/LL][J1M/LL ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (0,8) a (0,7)
+IA movio unidad de (1,8) a (1,7)
+IA movio unidad de (3,7) a (3,6)
+IA movio unidad de (4,7) a (4,6)
+IA movio unidad de (4,10) a (4,11)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (1,8)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 25 - Turno 13 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #13
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=65 | Metal=29 | Energia=24
+Jugador: Dominio=9% | Sistema: Dominio=31%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][J2S/LL ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][J2S/LL ][J1To/LL][J1Gr/LL][../LL  ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][J2S/BO ][../LL  ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][J2A/BO ][J1To/LL][../BO  ][../LL  ][../LL  ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][J1Cu/LL][J1M/LL ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:9
+
+
+============================================================
+  Estado 26 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #13
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=71 | Metal=33 | Energia=29
+Jugador: Dominio=9% | Sistema: Dominio=31%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][J2S/LL ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][J2S/LL ][J1To/LL][J1Gr/LL][../LL  ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][J2S/BO ][../LL  ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][J2A/BO ][J1To/LL][../BO  ][../LL  ][../LL  ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][J1Cu/LL][J1M/LL ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (0,7) a (0,6)
+IA movio unidad de (1,7) a (1,6)
+IA movio unidad de (2,7) a (2,6)
+IA movio unidad de (4,6) a (5,6)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (2,7)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 27 - Turno 14 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #14
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=71 | Metal=33 | Energia=29
+Jugador: Dominio=9% | Sistema: Dominio=34%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][J2S/LL ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][J2S/LL ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][J2S/LL ][J2S/LL ][J1To/LL][J1Gr/LL][../LL  ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][J2S/BO ][../LL  ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][../BO  ][../LL  ][../LL  ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][J2A/BO ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][J1Cu/LL][J1M/LL ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:4
+
+
+=== RECLUTAR UNIDAD ===
+Cuarteles disponibles:
+1. Cuartel en (0,0)
+2. Cuartel en (2,3)
+3. Cuartel en (3,10)
+4. Cuartel en (8,9)
+Selecciona cuartel (1-4):4
+
+
+Tipo: 1.Soldado 2.Arquero 3.Caballero 4.Mago 5.Ingeniero
+Selecciona:5
+
+Unidad reclutada en (7,9) cerca del cuartel.
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:5
+
+
+=== USAR HABILIDAD ESPECIAL ===
+Coordenada de la unidad (x y):7 9
+
+
+=== INGENIERO: CONSTRUCCION RAPIDA ===
+Ingresa coordenada del ingeniero (x y):7 9
+
+Buscando celdas libres cercanas para construir 2 edificios...
+  -> Granja construida en (6,9)
+  -> Torre construida en (7,8)
+Ingeniero construyo 2 edificio(s).
+Habilidad especial activada.
+
+============================================================
+  Estado 28 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #14
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=76 | Metal=37 | Energia=32
+Jugador: Dominio=11% | Sistema: Dominio=34%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][J2S/LL ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][../LL  ][J2S/LL ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][J2S/LL ][J2S/LL ][J1To/LL][J1Gr/LL][../LL  ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][J2S/BO ][../LL  ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][../BO  ][../LL  ][../LL  ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][J2A/BO ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][J1Gr/LL][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][J1To/LL][J1I/LL ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][J1Cu/LL][J1M/LL ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (0,6) a (0,5)
+IA movio unidad de (1,6) a (1,5)
+IA movio unidad de (2,6) a (2,5)
+IA movio unidad de (3,6) a (3,5)
+IA movio unidad de (5,6) a (6,6)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (2,9)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 29 - Turno 15 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #15
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=76 | Metal=37 | Energia=32
+Jugador: Dominio=11% | Sistema: Dominio=37%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][J2S/LL ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][J2S/LL ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][J2S/LL ][../LL  ][J2S/LL ][J1To/LL][J2S/LL ][../LL  ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][J2S/LL ][../BO  ][../LL  ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][../BO  ][../LL  ][../LL  ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][J2A/LL ][../LL  ][../LL  ][J1Gr/LL][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][J1To/LL][J1I/LL ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][J1Cu/LL][J1M/LL ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:4
+
+
+=== RECLUTAR UNIDAD ===
+Cuarteles disponibles:
+1. Cuartel en (0,0)
+2. Cuartel en (2,3)
+3. Cuartel en (3,10)
+4. Cuartel en (8,9)
+Selecciona cuartel (1-4):4
+
+
+Tipo: 1.Soldado 2.Arquero 3.Caballero 4.Mago 5.Ingeniero
+Selecciona:2
+
+Unidad reclutada en (9,9) cerca del cuartel.
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:5
+
+
+=== USAR HABILIDAD ESPECIAL ===
+Coordenada de la unidad (x y):9 9
+
+Arquero: Ataque de precision activado (siguiente ataque: danio *1.5, ignora 1 defensa).
+Habilidad especial activada.
+
+============================================================
+  Estado 30 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #15
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=83 | Metal=40 | Energia=37
+Jugador: Dominio=11% | Sistema: Dominio=37%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][J2S/LL ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][../BO  ][J2S/LL ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][J2S/LL ][../LL  ][J2S/LL ][J1To/LL][J2S/LL ][../LL  ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][J2S/LL ][../BO  ][../LL  ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][../BO  ][../LL  ][../LL  ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][J2A/LL ][../LL  ][../LL  ][J1Gr/LL][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][J1To/LL][J1I/LL ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][J1Cu/LL][J1M/LL ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1A/LL ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (0,5) a (0,4)
+IA movio unidad de (1,5) a (1,4)
+IA movio unidad de (2,5) a (2,4)
+IA movio unidad de (3,5) a (4,5)
+IA movio unidad de (6,6) a (7,6)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (2,8)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 31 - Turno 16 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #16
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=83 | Metal=40 | Energia=37
+Jugador: Dominio=11% | Sistema: Dominio=40%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][J2S/MO ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][J2S/BO ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][J2S/MO ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][J2S/LL ][../LL  ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][J2S/LL ][../BO  ][J1To/LL][../BO  ][../LL  ][../LL  ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][J1Gr/LL][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][J2A/BO ][NeTo/LL][J1To/LL][J1I/LL ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][J1Cu/LL][J1M/LL ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1A/LL ][J2S/LL ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:2
+
+
+=== ATACAR ===
+Coordenada de tu unidad (x y):9 9
+
+Coordenada del objetivo (x y):9 10
+
+Arquero ataca a distancia con precision.
+Soldado recibe 5 de danio. Vida restante: 0/10
+Arquero causa 5 de danio (ignora 1 defensa).
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:9
+
+
+============================================================
+  Estado 32 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #16
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=91 | Metal=44 | Energia=43
+Jugador: Dominio=11% | Sistema: Dominio=40%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][J2S/MO ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][J2S/BO ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][J2S/MO ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][J2S/LL ][../LL  ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][J2S/LL ][../BO  ][J1To/LL][../BO  ][../LL  ][../LL  ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][J1Gr/LL][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][J2A/BO ][NeTo/LL][J1To/LL][J1I/LL ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][J1Cu/LL][J1M/LL ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1A/LL ][../LL  ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (0,4) a (0,3)
+IA movio unidad de (2,4) a (3,4)
+IA movio unidad de (4,5) a (5,5)
+IA movio unidad de (7,6) a (8,6)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (2,10)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 33 - Turno 17 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #17
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=91 | Metal=44 | Energia=43
+Jugador: Dominio=11% | Sistema: Dominio=43%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][J2S/MO ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][J2S/BO ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][J2S/LL ][J2S/LL ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][J2S/PA ][../LL  ][../BO  ][../LL  ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][../BO  ][../LL  ][../LL  ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][J2S/LL ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][J1Gr/LL][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][J1To/LL][J1I/LL ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][J2A/LL ][../LL  ][../LL  ][J1Cu/LL][J1M/LL ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1A/LL ][../LL  ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:1
+
+
+=== MOVER UNIDAD ===
+Coordenada de origen (x y):8 10
+
+Coordenada de destino (x y):10 10
+
+Unidad movida exitosamente.
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:5
+
+
+=== USAR HABILIDAD ESPECIAL ===
+Coordenada de la unidad (x y):10 10
+
+
+=== HECHIZO DE AREA 3x3 ===
+Ingresa coordenada central (x y):10 10
+
+Mago lanza hechizo de area 3x3 centrado en (10,10)
+Soldado recibe 3 de danio. Vida restante: 7/10
+  -> Soldado en (10,11) recibe 3 de danio magico
+Soldado recibe 3 de danio. Vida restante: 7/10
+  -> Soldado en (11,10) recibe 3 de danio magico
+Habilidad especial activada.
+
+============================================================
+  Estado 34 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #17
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=99 | Metal=48 | Energia=48
+Jugador: Dominio=11% | Sistema: Dominio=43%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][J2S/MO ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][J2S/BO ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][J2S/LL ][J2S/LL ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][J2S/PA ][../LL  ][../BO  ][../LL  ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][../BO  ][../LL  ][../LL  ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][J2S/LL ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][J1Gr/LL][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][J1To/LL][J1I/LL ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][J2A/LL ][../LL  ][../LL  ][J1Cu/LL][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1A/LL ][../LL  ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1M/LL ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (0,3) a (0,2)
+IA movio unidad de (3,4) a (4,4)
+IA movio unidad de (5,5) a (6,5)
+IA movio unidad de (8,6) a (9,6)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (4,8)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 35 - Turno 18 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #18
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=99 | Metal=48 | Energia=48
+Jugador: Dominio=11% | Sistema: Dominio=46%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][J2S/BO ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][J2S/BO ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][J2S/LL ][J2S/LL ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][J2S/BO ][../LL  ][../BO  ][J1To/LL][J2S/BO ][../LL  ][../LL  ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][J2S/BO ][NeTo/LL][../LL  ][../LL  ][J1Gr/LL][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][J1To/LL][J1I/LL ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][J1Cu/LL][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][J2A/LL ][../LL  ][../LL  ][J1A/LL ][../LL  ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1M/LL ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:5
+
+
+=== USAR HABILIDAD ESPECIAL ===
+Coordenada de la unidad (x y):10 10
+
+
+=== HECHIZO DE AREA 3x3 ===
+Ingresa coordenada central (x y):10 10
+
+Mago lanza hechizo de area 3x3 centrado en (10,10)
+Soldado recibe 3 de danio. Vida restante: 4/10
+  -> Soldado en (10,11) recibe 3 de danio magico
+Soldado recibe 3 de danio. Vida restante: 4/10
+  -> Soldado en (11,10) recibe 3 de danio magico
+Habilidad especial activada.
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:5
+
+
+=== USAR HABILIDAD ESPECIAL ===
+Coordenada de la unidad (x y):10 10
+
+
+=== HECHIZO DE AREA 3x3 ===
+Ingresa coordenada central (x y):10 10
+
+Mago lanza hechizo de area 3x3 centrado en (10,10)
+Soldado recibe 3 de danio. Vida restante: 1/10
+  -> Soldado en (10,11) recibe 3 de danio magico
+Soldado recibe 3 de danio. Vida restante: 1/10
+  -> Soldado en (11,10) recibe 3 de danio magico
+Habilidad especial activada.
+
+============================================================
+  Estado 36 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #18
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=107 | Metal=52 | Energia=52
+Jugador: Dominio=11% | Sistema: Dominio=46%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][J2S/BO ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][J2S/BO ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][J2S/LL ][J2S/LL ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][../LL  ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][J2S/BO ][../LL  ][../BO  ][J1To/LL][J2S/BO ][../LL  ][../LL  ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][J2S/BO ][NeTo/LL][../LL  ][../LL  ][J1Gr/LL][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][J1To/LL][J1I/LL ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][J1Cu/LL][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][J2A/LL ][../LL  ][../LL  ][J1A/LL ][../LL  ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1M/LL ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (0,2) a (1,2)
+IA movio unidad de (4,4) a (5,4)
+IA movio unidad de (6,5) a (7,5)
+IA movio unidad de (9,6) a (10,6)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (3,7)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 37 - Turno 19 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #19
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=107 | Metal=52 | Energia=52
+Jugador: Dominio=11% | Sistema: Dominio=49%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][J2S/MO ][J1S/MO ][J2S/BO ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][J2S/LL ][J2S/LL ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][J2S/LL ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][J2S/BO ][../LL  ][../LL  ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][J2S/BO ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][J1Gr/LL][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][J2S/BO ][../BO  ][NeTo/LL][J1To/LL][J1I/LL ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][J1Cu/LL][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1A/LL ][../LL  ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][J2A/LL ][../LL  ][../LL  ][../LL  ][J1M/LL ][J2S/LL ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:5
+
+
+=== USAR HABILIDAD ESPECIAL ===
+Coordenada de la unidad (x y):10 10
+
+
+=== HECHIZO DE AREA 3x3 ===
+Ingresa coordenada central (x y):10 10
+
+Mago lanza hechizo de area 3x3 centrado en (10,10)
+Soldado recibe 3 de danio. Vida restante: 0/10
+  -> Soldado en (10,11) recibe 3 de danio magico
+Soldado recibe 3 de danio. Vida restante: 0/10
+  -> Soldado en (11,10) recibe 3 de danio magico
+Habilidad especial activada.
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:6
+
+
+=== REPORTES ===
+1. Estado actual
+2. Exportar reporte completo
+3. Exportar telemetria
+Selecciona:2
+
+Reporte exportado a 'reporte_partida.txt'
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:6
+
+
+=== REPORTES ===
+1. Estado actual
+2. Exportar reporte completo
+3. Exportar telemetria
+Selecciona:3
+
+Telemetria exportada a 'telemetria.csv'
+
+=== MENU JUGADOR ===
+Acciones restantes: 1
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:9
+
+
+============================================================
+  Estado 38 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #19
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=115 | Metal=56 | Energia=57
+Jugador: Dominio=11% | Sistema: Dominio=49%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][J2S/MO ][J1S/MO ][J2S/BO ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][../MO  ][J1Cu/MO][../MO  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][J2S/LL ][J2S/LL ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][J2S/LL ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][J2S/BO ][../LL  ][../LL  ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][J2S/BO ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../BO  ][NeTo/LL][../LL  ][../LL  ][J1Gr/LL][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][J2S/BO ][../BO  ][NeTo/LL][J1To/LL][J1I/LL ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][../LL  ][NeCu/LL][../LL  ][../LL  ][J1Cu/LL][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1A/LL ][../LL  ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][J2A/LL ][../LL  ][../LL  ][../LL  ][J1M/LL ][../LL  ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (1,2) a (2,2)
+IA movio unidad de (5,4) a (6,4)
+IA movio unidad de (7,5) a (8,5)
+IA movio unidad de (10,6) a (11,6)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (4,10)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+============================================================
+  Estado 39 - Turno 20 (jugador)
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #20
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=115 | Metal=56 | Energia=57
+Jugador: Dominio=10% | Sistema: Dominio=52%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][J2S/BO ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][J2S/MO ][J1Cu/MO][../MO  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][J2S/LL ][J2S/LL ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][J2S/LL ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][J2S/BO ][../LL  ][J2S/LL ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][J2S/BO ][../BO  ][NeTo/LL][../LL  ][../LL  ][J1Gr/LL][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][J1To/LL][J1I/LL ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][J2S/LL ][NeCu/LL][../LL  ][../LL  ][J1Cu/LL][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1A/LL ][../LL  ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1M/LL ][../LL  ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2A/LL ][../LL  ][../LL  ][../LL  ][../LL  ][J2Cu/LL]
+
+--- FASE DEL JUGADOR ---
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Torre produce +1 energia.
+Granja produce +2 comida.
+Torre produce +1 energia.
+Cuartel produce +1 metal.
+
+=== MENU JUGADOR ===
+Acciones restantes: 2
+1. Mover unidad
+2. Atacar
+3. Construir edificio
+4. Reclutar unidad
+5. Usar habilidad especial
+6. Ver reportes
+7. Guardar partida
+8. Cargar partida
+9. Terminar turno
+Opcion:9
+
+
+============================================================
+  Estado 40 - Fase del mundo
+============================================================
+
+----------------------------------------------------------
+          RIVAL FRONTIERS
+----------------------------------------------------------
+Turno: #20
+Objetivo: Alcanzar 60% de dominio antes del turno 20
+Recursos: Comida=123 | Metal=60 | Energia=63
+Jugador: Dominio=10% | Sistema: Dominio=52%
+----------------------------------------------------------
+
+    0        1        2        3        4        5        6        7        8        9        10       11
+0  [J1Cu/LL][J1A/LL ][../BO  ][../MO  ][../MO  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ]
+1  [J1S/LL ][../LL  ][../MO  ][J1S/MO ][J2S/BO ][../LL  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][../LL  ][../LL  ]
+2  [J1Gr/LL][../LL  ][J2S/MO ][J1Cu/MO][../MO  ][../LL  ][../LL  ][J2S/LL ][J2S/LL ][J2S/LL ][J2S/LL ][J1C/LL ]
+3  [../BO  ][../BO  ][J1To/BO][J1I/AG ][../PA  ][../LL  ][../BO  ][J2S/LL ][J2S/LL ][J1I/LL ][J1Cu/LL][../LL  ]
+4  [../BO  ][../BO  ][../LL  ][J1Gr/AG][../BO  ][../LL  ][../BO  ][J1To/LL][J2S/BO ][../LL  ][J2S/LL ][J2S/LL ]
+5  [../LL  ][../LL  ][../PA  ][../AG  ][../BO  ][../LL  ][../BO  ][../BO  ][../BO  ][../LL  ][../LL  ][../LL  ]
+6  [../LL  ][../LL  ][../PA  ][../AG  ][J2S/BO ][../BO  ][NeTo/LL][../LL  ][../LL  ][J1Gr/LL][../LL  ][../LL  ]
+7  [../LL  ][../MO  ][../MO  ][../AG  ][../BO  ][../BO  ][../BO  ][NeTo/LL][J1To/LL][J1I/LL ][../LL  ][../LL  ]
+8  [../MO  ][../LL  ][../LL  ][../AG  ][../LL  ][J2S/LL ][NeCu/LL][../LL  ][../LL  ][J1Cu/LL][../LL  ][J2S/LL ]
+9  [../MO  ][../LL  ][../MO  ][../AG  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1A/LL ][../LL  ][J2Gr/LL]
+10 [../LL  ][../LL  ][../LL  ][../LL  ][../PA  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J1M/LL ][../LL  ]
+11 [../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][../LL  ][J2A/LL ][../LL  ][../LL  ][../LL  ][../LL  ][J2Cu/LL]
+
+--- FASE DEL MUNDO ---
+Sistema IA ejecutando rutinas...
+IA: Patrullando territorios.
+IA movio unidad de (2,2) a (3,2)
+IA movio unidad de (6,4) a (7,4)
+IA movio unidad de (8,5) a (9,5)
+IA movio unidad de (11,6) a (11,5)
+IA: Reforzando posiciones clave.
+IA recluto Soldado en (2,2)
+IA: Generando recursos de edificios.
+Granja produce +2 comida.
+Cuartel produce +1 metal.
+
+┬íTiempo agotado! Evaluando resultado final...
+
+=== EVALUACION FINAL ===
+Dominio Jugador: 9%
+Dominio Sistema: 54%
+┬íDERROTA! El Sistema controlo mas territorio.
+
+=== FIN DEL JUEGO ===
+
+=== BITACORA ===
+  Juego iniciado. Turno del Jugador 1.
+  Turno 1 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 2 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 3 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 4 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 5 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 6 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 7 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 8 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 9 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 10 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 11 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 12 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 13 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 14 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 15 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 16 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 17 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 18 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 19 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Turno 20 - Fase del Jugador iniciada
+  Jugador termino su turno
+  Fase del Sistema iniciada
+  Fase del Sistema completada
+  Derrota del Jugador - Sistema controlo mas territorio
+
+Generando reporte final...
+Reporte final guardado en 'reporte_final.txt'
